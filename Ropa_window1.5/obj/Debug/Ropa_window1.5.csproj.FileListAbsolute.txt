@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\bin\Debug\Ropa_window1.5.exe.config
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\bin\Debug\Ropa_window1.5.exe
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\bin\Debug\Ropa_window1.5.pdb
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\obj\Debug\Ropa_window1._5.Form1.resources
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\obj\Debug\Ropa_window1._5.Form2.resources
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\obj\Debug\Ropa_window1._5.Properties.Resources.resources
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\obj\Debug\Ropa_window1.5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\obj\Debug\Ropa_window1.5.exe
+C:\Users\User\Desktop\ROPA\Ropa_window1.5\Ropa_window1.5\obj\Debug\Ropa_window1.5.pdb
