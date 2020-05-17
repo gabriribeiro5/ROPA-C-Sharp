@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.exe.config
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.exe
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.pdb
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Properties.Resources.resources
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.exe
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.pdb
+C:\Users\User\source\repos\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Tela_TAB2.resources
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.exe.config
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.exe
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.pdb
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.csprojAssemblyReference.cache
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Tela_TAB2.resources
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Form2.resources
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Properties.Resources.resources
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.csproj.GenerateResource.cache
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.exe
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.pdb
+F:\ROPA\Caixa de ROPA\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Form3.resources
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.exe.config
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.exe
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\bin\Debug\Caixa de ROPA.pdb
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.csprojAssemblyReference.cache
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Tela_TAB2.resources
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Form2.resources
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Form3.resources
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa_de_ROPA.Properties.Resources.resources
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.csproj.GenerateResource.cache
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.exe
+C:\Users\User\Documents\EDUCAFRO\ROPA\Repositório\É aqui\Caixa de ROPA\Caixa de ROPA\obj\Debug\Caixa de ROPA.pdb
